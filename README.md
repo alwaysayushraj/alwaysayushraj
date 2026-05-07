@@ -2,7 +2,7 @@
 
 🌱 Beginner developer learning **HTML, CSS, Python, and Java**  
 💡 Passionate about **open-source** and building projects that make learning fun  
-🎯 Goal: Contribute to **ECWoC 2026** and grow as a developer  
+🎯 Contributed to **ECWoC 2026**  
 
 ---
 
