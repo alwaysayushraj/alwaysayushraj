@@ -17,6 +17,7 @@
 - [html-project01](https://github.com/alwaysayushraj/html-project01) – Simple website using HTML elements  
 - [Learning_CSS](https://github.com/alwaysayushraj/Learning_CSS) – Styling experiments with CSS
 - [Learning_JS](https://github.com/alwaysayushraj/Learning_JS) – My journey learning JavaScript
+- [Currency Exchange](https://github.com/alwaysayushraj/CURRENCY_EXCHANGE) –  A real-time currency exchange rate converter built with Vanilla JavaScript, HTML5, and CSS3.
 
 
 ---
