@@ -18,8 +18,8 @@
 - [Learning_CSS](https://github.com/alwaysayushraj/Learning_CSS) – Styling experiments with CSS
 - [Learning_JS](https://github.com/alwaysayushraj/Learning_JS) – My journey learning JavaScript
 - [Currency Exchange](https://github.com/alwaysayushraj/CURRENCY_EXCHANGE) –  A real-time currency exchange rate converter built with Vanilla JavaScript, HTML5, and CSS3.
-- [Currency Exchange](https://github.com/alwaysayushraj/TO-DO_APP) –
-- [Currency Exchange](https://github.com/alwaysayushraj/Weather_APP) – A sleek, responsive Weather Application built with Vanilla JavaScript, CSS3 (Glassmorphism), and HTML5. Fetches real-time weather data using the OpenWeatherMap API.
+- [TO-DO_APP](https://github.com/alwaysayushraj/TO-DO_APP) – A sleek, glassmorphism-inspired To-Do List application featuring real-time progress tracking and a celebratory confetti finish.
+- [Weather_App](https://github.com/alwaysayushraj/Weather_APP) – A sleek, responsive Weather Application built with Vanilla JavaScript, CSS3 (Glassmorphism), and HTML5. Fetches real-time weather data using the OpenWeatherMap API.
 
 
 ---
