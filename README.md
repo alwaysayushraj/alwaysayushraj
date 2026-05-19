@@ -20,6 +20,7 @@
 - [Currency Exchange](https://github.com/alwaysayushraj/CURRENCY_EXCHANGE) –  A real-time currency exchange rate converter built with Vanilla JavaScript, HTML5, and CSS3.
 - [TO-DO_APP](https://github.com/alwaysayushraj/TO-DO_APP) – A sleek, glassmorphism-inspired To-Do List application featuring real-time progress tracking and a celebratory confetti finish.
 - [Weather_App](https://github.com/alwaysayushraj/Weather_APP) – A sleek, responsive Weather Application built with Vanilla JavaScript, CSS3 (Glassmorphism), and HTML5. Fetches real-time weather data using the OpenWeatherMap API.
+- [Calculator](https://github.com/alwaysayushraj/Calculator) – A sleek web calculator featuring a modern Glassmorphism UI, a flowing animated neon border, and smart cursor backspacing. Built with HTML, CSS, and vanilla JS.
 
 
 ---
